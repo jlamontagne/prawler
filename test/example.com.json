@@ -1,0 +1,9 @@
+{
+  "domain": "example.com",
+  "selectors": {
+    "name": "body div#name",
+    "description": "body div#description",
+    "image": "body div#image img",
+    "number": "body div#number"
+  }
+}
