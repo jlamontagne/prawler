@@ -1,0 +1,11 @@
+{
+  "domain": "localhost",
+  "selectors": {
+    "name": "span#name",
+    "number": "span#number",
+    "pricing": "table#prices",
+    "image": "div#left div img",
+    "description": "div#description p",
+    "discountcode": "div#pricing p"
+  }
+}
